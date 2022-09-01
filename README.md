@@ -8,3 +8,6 @@ pkg install python2
 pkg install git
 pip install requests 
 pip install mechanize 
+git clone https://github.com/oomo-786/Facebook.git
+cd Facebook
+python
