@@ -5,7 +5,7 @@ Facebook By Meta Crack Tools
 
 ```
 cd
-rm -rf HACKPRO
+rm -rf Facebook
 
 $ pkg update
 $ pkg upgrade
