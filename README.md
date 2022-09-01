@@ -10,4 +10,4 @@ pip install requests
 pip install mechanize 
 git clone https://github.com/oomo-786/Facebook.git
 cd Facebook
-python
+python Facebook.py
